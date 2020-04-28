@@ -1,0 +1,22 @@
+body {
+    font-size: $base-size;
+    color: $base-color;
+}
+
+p {
+    margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    margin: 0;
+}
+
+.container {
+    width: 95%;
+    min-width: $container;
+    margin: 0 auto;
+}
